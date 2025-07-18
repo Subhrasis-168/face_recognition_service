@@ -8,7 +8,7 @@ Built using **ReactJS** for the frontend and **AWS S3 + AWS Lambda + API Gateway
 
 ## 📸 Preview
 
-![App Preview](./assets/app_screenshot.png)
+![App Preview](assets/diagram.png)
 
 ---
 
