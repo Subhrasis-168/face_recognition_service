@@ -1,4 +1,4 @@
-#This is Authnitication Lambda file
+#This is Registration Lambda file
 import boto3
 
 s3 = boto3.client('s3')
